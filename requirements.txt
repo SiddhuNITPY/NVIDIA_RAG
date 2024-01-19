@@ -1,5 +1,5 @@
 # python packages to install, one per line
-jupyterlab==4.0.8
+jupyterlab==4.0.11
 ipywidgets
 
 milvus[client]==2.3.2
